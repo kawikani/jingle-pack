@@ -1,0 +1,13 @@
+{
+  "name": "Jingle Pack",
+  "entries": [
+    {
+      "game": "Mario Kart 8 Deluxe",
+      "file": "jingles/mk7.mp3"
+    },
+    {
+      "game": "Super Mario 3D Land",
+      "file": "jingles/sm3dl.mp3"
+    }
+  ]
+}
